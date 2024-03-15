@@ -1,6 +1,5 @@
-package Test;
+package tests;
 
-import com.google.gson.internal.bind.util.ISO8601Utils;
 import io.github.bonigarcia.wdm.WebDriverManager;
 import org.junit.jupiter.api.Test;
 import org.openqa.selenium.By;
